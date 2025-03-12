@@ -1,9 +1,9 @@
 
 from flask import request
-from niggas import app
+from stuff import app
 
 
-from niggas import routes
+from stuff import routes
 
 if __name__ == "__main__":
    

@@ -1,5 +1,5 @@
-from niggas import app
-from niggas import db
+from stuff import app
+from stuff import db
 from sqlalchemy import text
 from flask import render_template 
 from flask import request
